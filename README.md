@@ -57,12 +57,6 @@ streamlit run app.py
 | 📈 Visualization | Evaluasi model, clustering, SHAP analysis |
 | ℹ️ About | Penjelasan metode, dataset, informasi proyek |
 
-## Catatan Penting
-
-1. **Isi nama anggota** di `app.py` pada bagian Home dan About
-2. **Letakkan file `.pkl`** dari Colab ke folder `model/`
-3. **Letakkan file CSV** dari Colab ke folder `dataset/`
-4. **Opsional:** Letakkan gambar hasil notebook ke folder `assets/` agar tampil di halaman Visualization
 
 ## Bonus Points yang Diraih
 
@@ -70,5 +64,3 @@ streamlit run app.py
 - ✅ **UI/UX Menarik** — +2 poin (dark theme, modern design)
 - ✅ **Dashboard Interaktif** — +2 poin (form prediksi real-time)
 
----
-*Dibuat dengan Streamlit · Python · Scikit-learn · SHAP*
