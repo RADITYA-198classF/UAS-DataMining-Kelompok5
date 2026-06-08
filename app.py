@@ -832,20 +832,3 @@ elif page_key == "About":
         </div>
         """, unsafe_allow_html=True)
 
-        st.markdown("<div class='section-header' style='margin-top:1.5rem;'>Kriteria Penilaian</div>", unsafe_allow_html=True)
-        scoring = [
-            ("Business Understanding", "10%"),
-            ("Data Understanding & Preprocessing", "15%"),
-            ("Implementasi Algoritma", "20%"),
-            ("Evaluasi dan Analisis Hasil", "20%"),
-            ("Implementasi Web App", "20%"),
-            ("Laporan", "10%"),
-            ("Presentasi dan Demo", "5%"),
-        ]
-        for item, pct in scoring:
-            st.markdown(f"""
-            <div style='display:flex; justify-content:space-between; align-items:center;
-                        padding:0.4rem 0; border-bottom:1px solid var(--border);'>
-                <span style='color:#94a3b8; font-size:0.85rem;'>{item}</span>
-                <span style='color:#3b82f6; font-weight:600; font-size:0.85rem;'>{pct}</span>
-            </div>""", unsafe_allow_html=True)
