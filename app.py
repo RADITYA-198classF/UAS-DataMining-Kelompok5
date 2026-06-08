@@ -826,7 +826,7 @@ elif page_key == "About":
                 <div style='color:#64748b; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.1em;'>Anggota Kelompok</div>
                 <div style='color:#e2e8f0; margin-top:0.4rem; font-size:0.9rem;'>
                     📌 Raditya Ardi Prahasta — 24051214198<br>
-                    📌 Danella Andritya Putri — 2405124205<br>
+                    📌 Danella Andritya Putri —24051214205<br>
                 </div>
             </div>
         </div>
