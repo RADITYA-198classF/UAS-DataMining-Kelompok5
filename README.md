@@ -49,8 +49,6 @@ streamlit run app.py
 
 ## Fitur Aplikasi
 
-| Halaman | Konten |
-|---------|--------|
 | 🏠 Home | Judul proyek, deskripsi, identitas anggota, metode |
 | 📊 Dataset Overview | Info dataset, statistik, visualisasi distribusi |
 | 🔮 Prediction & Analysis | Form input nasabah → prediksi + cluster |
@@ -58,9 +56,8 @@ streamlit run app.py
 | ℹ️ About | Penjelasan metode, dataset, informasi proyek |
 
 
-## Bonus Points yang Diraih
 
-- ✅ **Explainable AI (SHAP)** — +2 poin
-- ✅ **UI/UX Menarik** — +2 poin (dark theme, modern design)
-- ✅ **Dashboard Interaktif** — +2 poin (form prediksi real-time)
+
+## Vidio Presentasi dan demo aplikasi
+(https://youtu.be/6R3yz_HYbxU?si=TxFtUN17QWOKOA38)
 
